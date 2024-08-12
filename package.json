@@ -1,0 +1,22 @@
+{
+  "name": "json-to-xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasu0200/Json-to-Xlsx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasu0200/Json-to-Xlsx/issues"
+  },
+  "homepage": "https://github.com/vasu0200/Json-to-Xlsx#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
